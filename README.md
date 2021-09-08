@@ -1,4 +1,5 @@
-# InteractiveImageSegmentation
+# Grabcut_To_Labelme
+This repository refer to this [repository](https://github.com/symao/InteractiveImageSegmentation)
 An interactive image segmentation tool for pixel-wise labeling image dataset in segmentation task, 
 which use GrabCut("[“GrabCut”: interactive foreground extraction using iterated graph cuts](https://dl.acm.org/citation.cfm?id=1015720)") and implemented in OpenCV 3 and Python.
 An OpenCV tutorial can be found [here](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html?highlight=grabcut).
