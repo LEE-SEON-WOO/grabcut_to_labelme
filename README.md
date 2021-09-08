@@ -14,6 +14,7 @@ If you want to label your own images, collect them into a filefolder, modify the
 - SHIFT+right mouse button: label possible foreground pixels
 - 'a'/SPACE: run sengementation again
 - 's'/ENTER: save label and skip to next image
+- 'd': save label data labelme format and skip to next image(New!)
 - 'p': prev image
 - 'n': next image
 - 'q'/ESC: exit
