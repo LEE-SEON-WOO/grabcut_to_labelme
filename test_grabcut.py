@@ -3,7 +3,7 @@ import numpy as np
 import sys
 import os
 
-img = cv2.imread('/home/symao/Pictures/3773.png')
+img = cv2.imread('resouce/images/KakaoTalk_20210907_193250461_09.jpg')
 mask = np.ones(img.shape[:2],np.uint8)*3
 bgdModel = np.zeros((1,65),np.float64)
 fgdModel = np.zeros((1,65),np.float64)
